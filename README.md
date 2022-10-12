@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oá 👋
 
 Eu sou uma Programadora Front-end e tenho experiência na criação de aplicações web.
 Atualmente estou trabalhando como freelancer desenvolvendo aplicações com as tecnologias HTML,CSS, JavaScript e Bootstrap. 
